@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Opeyemi Bamigbade. A  Data Scientist, Machine Learning Engineer and a Systems Engineering finalist. I combine my knowledge of systems design, software and data science to build data driven products that scale and solve problems. 
+My name is Opeyemi Bamigbade. A  Data Scientist, Machine Learning and Systems Engineer. I combine my knowledge of systems design, software and data science to build data driven products that scale and solve problems. 
 
 **Strong Languages**: Python and JavaScript
 
