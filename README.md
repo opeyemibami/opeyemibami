@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[My Portfolio](https://opeyemibami.github.io/yhemmy/) 
+
+[My Ai Blogging](https://ml-app-gallery.herokuapp.com/)
 
 My name is Opeyemi Bamigbade. A  Data Scientist, Machine Learning and Systems Engineer. I combine my knowledge of systems design, software and data science to build data driven products that scale and solve problems. 
 
