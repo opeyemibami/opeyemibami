@@ -8,7 +8,7 @@ My name is Opeyemi Bamigbade. A  Data Scientist, Machine Learning and Systems En
 
 **Strong Languages**: Python and JavaScript
 
-- 🔭 Created on [TMOST](https://github.com/opeyemibami/Topic-Modelling-Open-Source-Tool). An open-source, topic modelling tool built on Natural Language Processing that enables users to preprocess, build, generate and download model report on topic modelling without the need to code.
+- 🔭 Created [TMOST](https://github.com/opeyemibami/Topic-Modelling-Open-Source-Tool). An open-source, topic modelling tool built on Natural Language Processing that enables users to preprocess, build, generate and download model report on topic modelling without the need to code.
 - 🌱 Contibutor to [Danfojs](https://github.com/opensource9ja/danfojs). An open-source, JavaScript library providing high-performance, intuitive, and easy-to-use data structures for manipulating and processing structured data.
 - 🌱 Knowledgeable on [TFX](https://www.tensorflow.org/tfx), [TFlite](https://www.tensorflow.org/lite), [TFjs](https://www.tensorflow.org/js), [MLOps](https://cloud.google.com/solutions/machine-learning/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning), [ML-on-GCP](https://www.coursera.org/programs/697b2a08-db87-4463-a112-e1ac8c46b181/browse?productId=GWIdT4bQEeiFWQrjbTVkyg&productType=s12n&query=Machine+Learning+with+TensorFlow+on+Google+Cloud+Platform&showMiniModal=true), [Android-Kotlin](https://kotlinlang.org/) and web-interface for Ai products deployment.
 - Transiting from ML-engineer into Software engineer with special focus on the MERN stack
