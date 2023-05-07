@@ -1,6 +1,8 @@
 ### Hi there 👋
 My name is Opeyemi Bamigbade. A  Data Scientist, Machine Learning and Systems Engineer. I combine my knowledge of systems design, software and data science to build data driven products that scale and solve problems. 
 
+A PhD student with research interest in Computer Vision Techniques for Digital Forensics, AI in Cybersecurity, and Multimedia Content Geolocation 👨🏻‍💻
+
 [![Opeyemi's github stats](https://github-readme-stats.vercel.app/api?username=opeyemibami&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/opeyemibami/)
 
 - 🔭 I Created [TMOST](https://github.com/opeyemibami/Topic-Modelling-Open-Source-Tool). An open-source, topic modelling tool built on Natural Language Processing that enables users to preprocess, build, generate and download model report on topic modelling without the need to code.
@@ -20,4 +22,4 @@ My name is Opeyemi Bamigbade. A  Data Scientist, Machine Learning and Systems En
 
 See more of my technical articles on [Medium](https://opeyemibami.medium.com/)
 
-Learn more about me via [My Portfolio](https://opeyemibami.github.io/yhemmy/) && [My Ai Blogging](https://ml-app-gallery.herokuapp.com/)
+Learn more about me via [My Portfolio](https://opeyemibami.github.io/yhemmy/)
