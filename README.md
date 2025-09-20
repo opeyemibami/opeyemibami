@@ -2,7 +2,7 @@
 
 [![Opeyemi's github stats](https://github-readme-stats.vercel.app/api?username=opeyemibami&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/opeyemibami/)
 
-- 🌱 Contibutor to [Danfojs](https://github.com/opensource9ja/danfojs). 
+- 🌱 Contibutor to [Danfojs](https://github.com/opensource9ja/danfojs) | [Pylette](https://github.com/qTipTip/Pylette) | [Datasist](https://github.com/risenW/datasist)
 - 🌱 I enjoy doing MLOps for AI products.
 
 - 📫 Contact: Email (bamigbadeopeyemi@gmail.com) [Twitter](https://twitter.com/opeyemibami), [Linkedin](https://www.linkedin.com/in/bamigbade-opeyemi-49007a122/).
