@@ -16,4 +16,4 @@
 
 See more on [Medium](https://opeyemibami.medium.com/)
 
-Learn more about me via [My Portfolio](https://opeyemibami.github.io/yhemmy/)
+Learn more about me via [My Portfolio](https://opeyemibami.github.io)
