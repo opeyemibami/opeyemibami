@@ -12,7 +12,7 @@
 
 ---
 
-### 📄 Research Papers
+### 📄 Research Publications
 
 - [**VAAS:** Vision-Attention Anomaly Scoring for Image Manipulation Detection in Digital Forensics](https://arxiv.org/abs/2512.15512)  · 
 - [Improving Image Embeddings with Colour Features in Indoor Scene Geolocation](https://ieeexplore.ieee.org/document/10976713)  · 
