@@ -6,9 +6,8 @@
 
 ### 🌱 **Open-source contributions:**  
 - [VAAS](https://github.com/OBA-Research/VAAS) ·  
+- [Pylette](https://github.com/qTipTip/Pylette) ·
 - [Danfojs](https://github.com/opensource9ja/danfojs) ·  
-- [Pylette](https://github.com/qTipTip/Pylette) ·  
-- [Datasist](https://github.com/risenW/datasist) · 
 
 ---
 
