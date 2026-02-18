@@ -1,8 +1,26 @@
-## AI Research Engineer | ML Systems | PhD Candidate  
+## Applied AI Engineer | Multimodal ML Systems | PhD (Computer Vision)
 
-### Interests: Multimodal Learning & ML Systems
+Designing and building reliable multimodal AI systems by combining research-depth model understanding with production-grade engineering.
+Focused on designing, evaluating, and optimizing AI systems across component, interaction, and infrastructure layers.
+
+### 🔭 Interests: 
+Multimodal AI · Agent Systems · Retrieval & RAG Optimization · AI Evaluation & Reliability · Systems Architecture · Representation Learning
 
 [![Opeyemi's github stats](https://github-readme-stats.vercel.app/api?username=opeyemibami&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/opeyemibami/)
+
+### 🚀 Applied AI Projects
+
+- **OpsMate Agent**: LLM-powered retrieval assistant with structured context management, tool orchestration, and reliability diagnostics 
+- **Legal RAG System**: Domain-specific retrieval pipeline with chunking strategy analysis and evaluation diagnostics  
+- **VAAS-Inference**: Inference-first multimodal anomaly scoring system focused on attention-based failure localization  
+- **MiniCLIP**: Multimodal embedding architecture experiments exploring representation behaviour and system-level performance impact 
+
+### 🔬 Systems Focus
+- Component behaviour analysis
+- Interaction-level optimization
+- Failure mode diagnostics
+- Retrieval performance engineering
+- Latency–accuracy tradeoff analysis
 
 ### 🌱 **Open-source contributions:**  
 - [VAAS](https://github.com/OBA-Research/VAAS) ·  
@@ -19,7 +37,7 @@
   
 👉 [See more publications](https://scholar.google.com/citations?user=EYySFIwAAAAJ&hl=en)
 
-*(Active research direction: multimodal vision systems, attention mechanisms, and colour-aware embeddings.)*
+*(Research focus: Multimodal representation learning, model interpretability, and system-level evaluation.)*
 
 ---
 
@@ -34,6 +52,13 @@ More writing: [Medium](https://opeyemibami.medium.com/)
 Learn more: [Portfolio](https://opeyemibami.github.io)
 
 ---
+
+### Currently Exploring
+- Multimodal agent reliability & failure diagnostics
+- Retrieval optimization for domain-specific RAG systems
+- Latent behaviour analysis in LLM/VLM pipelines
+
+___
 
 ### 📫 **Contact:**  
 - Email: bamigbadeopeyemi@gmail.com ·  
