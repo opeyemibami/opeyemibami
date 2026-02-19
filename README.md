@@ -1,6 +1,10 @@
-## AI Research Engineer | ML Systems | PhD Candidate  
+## AI Engineer | ML Systems | PhD Candidate  
 
-### Interests: Multimodal Learning & ML Systems
+Designs and builds multimodal ML systems across model architecture, training, and inference. Focused on advancing representation learning while engineering scalable, reliable AI systems.
+
+### 🔭 Focus Areas 
+
+Multimodal Intelligence · Distributed Training · Representation Learning · ML Systems Engineering · Performance Optimization
 
 [![Opeyemi's github stats](https://github-readme-stats.vercel.app/api?username=opeyemibami&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/opeyemibami/)
 
@@ -17,18 +21,15 @@
 - [Improving Image Embeddings with Colour Features in Indoor Scene Geolocation](https://ieeexplore.ieee.org/document/10976713)  · 
 - [Computer Vision for Multimedia Geolocation in Human Trafficking Investigation: A Systematic Literature Review](https://arxiv.org/abs/2402.15448)  ·
   
-👉 [See more publications](https://scholar.google.com/citations?user=EYySFIwAAAAJ&hl=en)
-
-*(Active research direction: multimodal vision systems, attention mechanisms, and colour-aware embeddings.)*
+👉 [See more on Google Scholar](https://scholar.google.com/citations?user=EYySFIwAAAAJ&hl=en)
 
 ---
 
 ### ✍🏼 Selected Writing
 
 - [Test-Driven Development in MLOps](https://medium.com/mlops-community/test-driven-development-in-mlops-part-1-8894575f4dec) · 
-- [Data Science & Machine Learning Projects in Containers](https://neptune.ai/blog/data-science-machine-learning-in-containers) · 
-- [Building Production ML Systems on Google Cloud Platform](https://heartbeat.comet.ml/building-production-machine-learning-systems-on-google-cloud-platform-part-1-959e0ad99b75) · 
-- [Conversational Chatbots with NLTK & TensorFlow](https://heartbeat.comet.ml/building-a-conversational-chatbot-with-nltk-and-tensorflow-part-1-f452ce1756e5) · 
+- [ML Systems in Containerized Environments](https://neptune.ai/blog/data-science-machine-learning-in-containers) · 
+- [Production ML Systems on Cloud Platforms](https://heartbeat.comet.ml/building-production-machine-learning-systems-on-google-cloud-platform-part-1-959e0ad99b75) · 
 
 More writing: [Medium](https://opeyemibami.medium.com/)  
 Learn more: [Portfolio](https://opeyemibami.github.io)
@@ -36,7 +37,7 @@ Learn more: [Portfolio](https://opeyemibami.github.io)
 ---
 
 ### 📫 **Contact:**  
-- Email: bamigbadeopeyemi@gmail.com ·  
-- [Portfolio](https://opeyemibami.github.io) ·  
+
+- [Email](mailto:bamigbadeopeyemi@gmail.com) · 
 - [LinkedIn](https://www.linkedin.com/in/bamigbade-opeyemi-49007a122/) ·  
-- [Twitter/X](https://twitter.com/opeyemibami)
+- [Portfolio](https://opeyemibami.github.io) ·
