@@ -1,14 +1,15 @@
-## AI Engineer | ML Systems | PhD Candidate  
+# AI Engineer | ML Systems
 
 Designs and builds multimodal ML systems across model architecture, training, and inference. Focused on advancing representation learning while engineering scalable, reliable AI systems.
 
-### 🔭 Focus Areas 
+## 🔭 Focus Areas
 
 Multimodal Intelligence · Distributed Training · Representation Learning · ML Systems Engineering · Performance Optimization
 
 [![Opeyemi's github stats](https://github-readme-stats.vercel.app/api?username=opeyemibami&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/opeyemibami/)
 
 ### 🌱 **Open-source contributions:**  
+
 - [VAAS](https://github.com/OBA-Research/VAAS) ·  
 - [Pylette](https://github.com/qTipTip/Pylette) ·
 - [Danfojs](https://github.com/opensource9ja/danfojs) ·  
