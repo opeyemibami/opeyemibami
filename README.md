@@ -1,4 +1,4 @@
-# AI Research Engineer | ML Systems
+# AI Systems Engineer | Multimodal AI | PhD Candidate
 
 Engineering AI systems while advancing model capabilities through research-driven design.<br>
 Designs and builds modular solutions across model architecture, distributed training, and inference, with emphasis on scalability, reliability, and performance.
