@@ -1,11 +1,11 @@
 # AI Systems Engineer | Multimodal AI | PhD Candidate
 
 Engineering AI systems while advancing model capabilities through research-driven design.<br>
-Designs and builds modular solutions across model architecture, distributed training, and inference, with emphasis on scalability, reliability, and performance.
+Designs and builds modular solutions across model architecture, inference, and training, with emphasis on scalability, reliability, and performance.
 
 ## 🔭 Focus Areas
 
-Agent & RAG Systems · Distributed Training · Representation Learning · ML Systems Engineering · Performance Optimization · Multimodal Models
+AI Systems Engineering · Inference Engineering · Multimodal AI · Agentic workflow & RAG Systems · Representation Learning · Performance Optimization
 
 [![Opeyemi's github stats](https://github-readme-stats.vercel.app/api?username=opeyemibami&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/opeyemibami/)
 
@@ -18,7 +18,7 @@ Agent & RAG Systems · Distributed Training · Representation Learning · ML Sys
 
 ---
 
-### 📄 Research Publications
+### 📄 Selected Research Publications
 
 - [**VAAS:** Vision-Attention Anomaly Scoring for Image Manipulation Detection in Digital Forensics](https://arxiv.org/abs/2512.15512)  · 
 - [Improving Image Embeddings with Colour Features in Indoor Scene Geolocation](https://ieeexplore.ieee.org/document/10976713)  · 
