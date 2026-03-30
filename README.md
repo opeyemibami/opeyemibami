@@ -31,6 +31,7 @@ AI Systems Engineering · Inference Engineering · Multimodal AI · Agentic work
 
 ### ✍🏼 Selected Writing
 
+- [Agent-Learning: Execution-Aware Policy Optimization for LLM Tool Systems](https://opeyemibami.github.io/assets/notes_pdfs/agent-learning.pdf) 
 - [Test-Driven Development in MLOps](https://medium.com/mlops-community/test-driven-development-in-mlops-part-1-8894575f4dec) · 
 - [ML Systems in Containerized Environments](https://neptune.ai/blog/data-science-machine-learning-in-containers) · 
 - [Production ML Systems on Cloud Platforms](https://heartbeat.comet.ml/building-production-machine-learning-systems-on-google-cloud-platform-part-1-959e0ad99b75) · 
