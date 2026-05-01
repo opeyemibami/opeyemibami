@@ -1,11 +1,11 @@
-# AI Systems Engineer | Multimodal AI | PhD Candidate
+# AI Systems & Platform Engineer | ML Systems (PhD Candidate)
 
 Engineering AI systems while advancing model capabilities through research-driven design.<br>
 Designs and builds modular solutions across model architecture, inference, and training, with emphasis on scalability, reliability, and performance.
 
 ## 🔭 Focus Areas
 
-AI Systems Engineering · Inference Engineering · Multimodal AI · Agentic workflow & RAG Systems · Representation Learning · Performance Optimization
+AI Systems & Platform Engineering · Inference Engineering · Multimodal AI · Agentic workflow & RAG Systems · Representation Learning · Performance Optimization
 
 [![Opeyemi's github stats](https://github-readme-stats.vercel.app/api?username=opeyemibami&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/opeyemibami/)
 
@@ -24,22 +24,22 @@ AI Systems Engineering · Inference Engineering · Multimodal AI · Agentic work
 
 ### ✍🏼 Selected Writing
 
+- [Evaluation as a System Primitive for Model Behaviour](https://opeyemibami.github.io/notes/article-evaluation-system-primitive/)
 - [Agent-Learning: Execution-Aware Policy Optimization for LLM Tool Systems](https://opeyemibami.github.io/assets/notes_pdfs/agent-learning.pdf) 
 - [Test-Driven Development in MLOps](https://medium.com/mlops-community/test-driven-development-in-mlops-part-1-8894575f4dec) · 
 - [ML Systems in Containerized Environments](https://neptune.ai/blog/data-science-machine-learning-in-containers) · 
 - [Production ML Systems on Cloud Platforms](https://heartbeat.comet.ml/building-production-machine-learning-systems-on-google-cloud-platform-part-1-959e0ad99b75) ·
+
+More writing: [Medium](https://opeyemibami.medium.com/)  
+Learn more: [Portfolio](https://opeyemibami.github.io)
 
 ---
 
 - ### 🌱 **Open-source contributions:**  
 
 - [VAAS](https://github.com/OBA-Research/VAAS) ·
+- [Danfojs](https://github.com/opensource9ja/danfojs) ·
 - [VLM-Anatomy](https://github.com/Brassin/mini-clip) ·
-- [Danfojs](https://github.com/opensource9ja/danfojs) ·  
-
-
-More writing: [Medium](https://opeyemibami.medium.com/)  
-Learn more: [Portfolio](https://opeyemibami.github.io)
 
 ---
 
