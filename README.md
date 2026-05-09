@@ -1,11 +1,11 @@
-# AI Systems & Platform Engineer | ML Systems (PhD Candidate)
+# AI Platform Engineer | PhD Candidate
 
 Engineering AI systems while advancing model capabilities through research-driven design.<br>
 Designs and builds modular solutions across model architecture, inference, and training, with emphasis on scalability, reliability, and performance.
 
 ## 🔭 Focus Areas
 
-AI Systems & Platform Engineering · Inference Engineering · Multimodal AI · Agentic workflow & RAG Systems · Representation Learning · Performance Optimization
+AI Platform Engineering · Inference Engineering · Multimodal AI · Representation Learning · Performance Optimisation
 
 [![Opeyemi's github stats](https://github-readme-stats.vercel.app/api?username=opeyemibami&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/opeyemibami/)
 
