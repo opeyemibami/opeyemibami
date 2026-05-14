@@ -1,4 +1,4 @@
-# AI Systems Engineer | Inference Systems | PhD Candidate
+# AI Systems Engineer | PhD Candidate
 
 Engineering AI systems while advancing model capabilities through research-driven design.<br>
 Designs and builds modular solutions across model architecture, inference, and training, with emphasis on scalability, reliability, and performance.
