@@ -1,7 +1,7 @@
 # AI Systems Engineer | PhD Candidate
 
-Engineering AI systems while advancing model capabilities through research-driven design.<br>
-Designs and builds modular solutions across model architecture, inference, and training, with emphasis on scalability, reliability, and performance.
+Building AI systems while advancing model capabilities through research-driven design.<br>
+Modular-first solutions across model architecture, inference, and training, with emphasis on scalability, reliability, and performance.
 
 ## 🔭 Focus Areas
 
