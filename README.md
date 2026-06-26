@@ -27,7 +27,7 @@ AI Systems Engineering · Inference Infra · LLM & Multimodal AI · Performance 
 - [Evaluation as a System Primitive for Model Behaviour](https://opeyemibami.github.io/notes/article-evaluation-system-primitive/)
 - [Agent-Learning: Execution-Aware Policy Optimization for LLM Tool Systems](https://opeyemibami.github.io/assets/notes_pdfs/agent-learning.pdf) 
 - [Test-Driven Development in MLOps](https://medium.com/mlops-community/test-driven-development-in-mlops-part-1-8894575f4dec) · 
-- [ML Systems in Containerized Environments](https://neptune.ai/blog/data-science-machine-learning-in-containers) · 
+- [ML Systems in Containerized Environments](https://opeyemibami.medium.com/data-science-machine-learning-in-containers-4e1f6084c32b) · 
 - [Production ML Systems on Cloud Platforms](https://heartbeat.comet.ml/building-production-machine-learning-systems-on-google-cloud-platform-part-1-959e0ad99b75) ·
 
 More writing: [Medium](https://opeyemibami.medium.com/)  
