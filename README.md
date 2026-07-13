@@ -1,7 +1,7 @@
 # AI Systems Engineer | PhD Candidate
 
 Building AI systems while advancing model capabilities through research-driven design.<br>
-Modular-first solutions across model architecture, inference, and training, with emphasis on scalability, reliability, and performance.
+Modular-first solutions across model architecture, inference, and training, with scalability, reliability, and performance as priorities.
 
 ## 🔭 Focus Areas
 
@@ -24,6 +24,8 @@ AI Systems Engineering · Inference Infra · LLM & Multimodal AI · Performance 
 
 ### ✍🏼 Selected Writing
 
+- [Inferex: A benchmark-driven LLM inference engineering platform](https://opeyemibami.github.io/notes/article-inferex/)
+- [Platframe: Building an AI-Assisted Investigation Platform](https://opeyemibami.github.io/notes/article-platframe/)
 - [Evaluation as a System Primitive for Model Behaviour](https://opeyemibami.github.io/notes/article-evaluation-system-primitive/)
 - [Agent-Learning: Execution-Aware Policy Optimization for LLM Tool Systems](https://opeyemibami.github.io/assets/notes_pdfs/agent-learning.pdf) 
 - [Test-Driven Development in MLOps](https://medium.com/mlops-community/test-driven-development-in-mlops-part-1-8894575f4dec) · 
